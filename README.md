@@ -98,4 +98,6 @@ ytdl.exe [mode] [options]
 > Example endpoint: [https://maple3142-ytdl-demo.glitch.me/api](https://maple3142-ytdl-demo.glitch.me/api)
 
 ### TODO:
-> 
+> Speed up downloads (use custom https)
+
+> Add stream muxer
