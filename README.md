@@ -47,7 +47,7 @@ ytdl.exe [mode] [options]
 ```
 > If used in *-d* mode, simulates download without actually downloading anything.
 ```
--cf --cache-file
+-cf --cache-file [FILE]
 ```
 > Use cache file. If omitted, default "youtube.cache" file is used
 ```
